@@ -8,7 +8,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/vitikovan" target="_blank">
-    <img alt="Twitter: vitikovan" src="https://img.shields.io/twitter/follow/fidelissauro.svg?style=social" />
+    <img alt="Twitter: vitikovan" src="https://img.shields.io/twitter/follow/vitikovan.svg?style=social" />
   </a>
 </p>
 # CNCF Chanllenge
