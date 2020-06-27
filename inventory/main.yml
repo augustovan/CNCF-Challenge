@@ -1,0 +1,6 @@
+all:
+  vars:
+    ansible_ssh_user:ansible_ssh_user: victor
+  children:
+    test:
+      hosts: 3.87.63.211
